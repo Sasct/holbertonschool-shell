@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 007 /root/holbertonschool-shell
+chmod -R a+x ./
