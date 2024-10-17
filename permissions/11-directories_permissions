@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 777 /root/www
+chmod -R 777 /root/holbertonschool-shell
