@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 775 /holbertonschool-shell/permissions
+chmod -R 007 /holbertonschool-shell/permissions
